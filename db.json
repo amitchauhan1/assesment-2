@@ -1,0 +1,28 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "image": "da/shop.png",
+            "name": "shop",
+            "description": "Nice quality",
+            "price": 10,
+            "quantity": 5
+        },
+        {
+            "id": 2,
+            "image": "da/suger.png",
+            "name": "suger",
+            "description": "Nice suger quality",
+            "price": 40,
+            "quantity": 10
+        },
+        {
+            "id": 3,
+            "image": "da/pc.png",
+            "name": "pc",
+            "description": "Nice pc quality",
+            "price": 10,
+            "quantity": 5
+        }
+    ]
+}
